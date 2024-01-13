@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('myindex');
 });
 
 Route::get('/blog',[BlogController::class,'getAllBlogs']);

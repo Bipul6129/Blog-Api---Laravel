@@ -2,7 +2,7 @@
 
 # Blog crud api using Laravel
 
-The app is deployed on [https://blog-api-laravel-production.up.railway.app/](http://example.com](https://blog-api-laravel-production.up.railway.app/) where u can use postman collection to call the api 
+The app is deployed on [https://blog-api-laravel-production.up.railway.app/](https://blog-api-laravel-production.up.railway.app/) where u can use postman collection to call the api 
 A small set of api for blog which is built using laravel framework.
 
 ## Table of Contents

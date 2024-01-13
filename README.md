@@ -15,6 +15,7 @@ A small set of api for blog which is built using laravel framework.
 - Blog has crud functionalities
 - Each category has it's own description
 - Relation between blog and category is many to one
+- Exceptions are handled
 
 ## Requirements
 

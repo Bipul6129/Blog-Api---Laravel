@@ -18,4 +18,4 @@ Route::get('/', function () {
     return view('myindex');
 });
 
-Route::get('/blog',[BlogController::class,'getAllBlogs']);
+// Route::get('/blog',[BlogController::class,'getAllBlogs']);

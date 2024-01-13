@@ -3,7 +3,7 @@
 # Blog crud api using Laravel
 
 The app is deployed on [https://blog-api-laravel-production.up.railway.app/](https://blog-api-laravel-production.up.railway.app/) where u can use postman collection to call the api 
-A small set of api for blog which is built using laravel framework.
+
 
 ## Table of Contents
 
@@ -14,13 +14,14 @@ A small set of api for blog which is built using laravel framework.
 ## Features
 
 - Blog has crud functionalities
+- Api authorization with token
 - Each category has it's own description
 - Relation between blog and category is many to one
 - Exceptions are handled
 
 ## Requirements
 
-- PHP (version)
+- PHP
 - Composer
 - MySql
 

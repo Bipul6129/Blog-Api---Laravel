@@ -21,7 +21,6 @@ A small set of api for blog which is built using laravel framework.
 - PHP (version)
 - Composer
 - MySql
-- Other dependencies...
 
 ## Configuration
 

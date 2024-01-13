@@ -17,6 +17,10 @@ class categorySeeder extends Seeder
             [
                 'name'=>'war',
                 'description'=>'this is war where it is very bad'
+            ],
+            [
+                'name'=>'science',
+                'description'=>'this is science where it is very hard'
             ]
         ];
         foreach($category as $key=>$value){
